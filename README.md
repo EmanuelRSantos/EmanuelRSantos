@@ -11,6 +11,6 @@
 
 Aqui estão alguns projetos nos quais estou trabalhando:
 
-### [SafetyStreet](https://github.com/seu-usuario/projeto1)
+### [SafetyStreet](https://github.com/EmanuelRSantos/safety-street)
 
 Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!
